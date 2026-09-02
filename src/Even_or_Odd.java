@@ -1,4 +1,5 @@
-public class Even_or_Odd {
+public class Even_or_Odd // Program to check even or odd
+{
     public static void main(String []args)
     {
         int x=10;
